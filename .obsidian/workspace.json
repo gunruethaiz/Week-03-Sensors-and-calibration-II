@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03-04-Sensor-vs-Transducer.md",
+                "file": "Week-03-05-Signal-Integrity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-04-Sensor-vs-Transducer"
+              "title": "Week-03-05-Signal-Integrity"
             }
           }
         ]
@@ -207,21 +207,23 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "Images/Output_Transducers.png",
+    "Gemini_Generated_Image_szz5olszz5olszz5.png",
+    "Gemini_Generated_Image_d242skd242skd242.png",
+    "Gemini_Generated_Image_8k5628k5628k5628.png",
+    "Gemini_Generated_Image_9lfe009lfe009lfe.png",
+    "Gemini_Generated_Image_1sankn1sankn1san.png",
+    "Gemini_Generated_Image_iurik6iurik6iuri.png",
     "Week-03-04-Sensor-vs-Transducer.md",
+    "Week-03-05-Signal-Integrity.md",
+    "Images/Output_Transducers.png",
     "Images/Input_Transducers.png",
     "Images/Transducer_characteristics.png",
     "Images/Example_of_Sensors.png",
     "Images/Sensor_vs_Transducer.png",
-    "Images/Sensors.png",
     "Week-03.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
-    "Images/Logic_2_bit_Level.jpg",
-    "Images/Logic_1_bit_Level.png",
-    "Images/Logic_2 bit_Level.png",
-    "Images/2 bit-level.png",
     "Week-03-Sensors-and-calibration-II.md"
   ]
 }
