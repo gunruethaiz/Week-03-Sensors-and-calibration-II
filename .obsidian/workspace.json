@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Week-03.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -197,8 +197,9 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "67030021/Report.md",
+    "README.md",
     "Week-03.md",
+    "67030021/Report.md",
     "Week-03-01_Physical_World.md",
     "67030021",
     "Week-03-02-Digital-World.md",
@@ -206,7 +207,6 @@
     "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-05-Signal-Integrity.md",
     "Week-03-Lab-sheet-03-LDR-and-calibration.md",
-    "README.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
     "Images/Add_Scatter_Chart.png",
