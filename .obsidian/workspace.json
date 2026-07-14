@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week-03"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-03.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-03"
+              "title": "Outline of README"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "README.md",
     "Week-03.md",
+    "README.md",
     "67030021/Report.md",
     "Week-03-01_Physical_World.md",
     "67030021",
