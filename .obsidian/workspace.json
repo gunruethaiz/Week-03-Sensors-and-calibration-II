@@ -11,10 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "67030021/Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "67030021/Report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Report"
             }
           },
           {
@@ -190,7 +195,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "75abcf953e966226",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
     "Week-03.md",
     "Week-03-01_Physical_World.md",
