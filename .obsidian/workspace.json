@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67030021/Report.md",
+                "file": "Week-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report"
+              "title": "Week-03"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "67030021/Report.md",
+                "file": "Week-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Report"
+              "title": "Outline of Week-03"
             }
           },
           {
@@ -197,9 +197,9 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "67030021/Report.md",
     "Week-03.md",
     "Week-03-01_Physical_World.md",
-    "67030021/Report.md",
     "67030021",
     "Week-03-02-Digital-World.md",
     "Week-03-03-Physical to Electrical to Digital.md",
