@@ -1,21 +1,25 @@
-> [!info]
-> # 📖 Week 03
-> Application of Internet of Things
+# 📖 Week 03
+
+> **Application of Internet of Things**
 >
-> Physical → Electrical → Digital
-![](Images/Week-03-Cover.png)
-## เนื้อหา
-### [Week-03-01_Physical_World](Week-03-01_Physical_World.md)
+> **Physical → Electrical → Digital**
 
-### [Week-03-02-Digital-World](Week-03-02-Digital-World.md)
+<p align="center">
+  <img src="Images/Week-03-Cover.png" width="900">
+</p>
 
-### [Week-03-03-Physical to Electrical to Digital](Week-03-03-Physical%20to%20Electrical%20to%20Digital.md)
+---
 
-### [Week-03-04-Sensor-vs-Transducer](Week-03-04-Sensor-vs-Transducer.md)
+# 📚 เนื้อหา
 
-### [Week-03-05-Signal-Integrity](Week-03-05-Signal-Integrity.md)
+- 📘 [Physical World](Week-03-01_Physical_World.md)
+- 💻 [Digital World](Week-03-02-Digital-World.md)
+- ⚡ [Physical → Electrical → Digital](Week-03-03-Physical%20to%20Electrical%20to%20Digital.md)
+- 📡 [Sensor vs Transducer](Week-03-04-Sensor-vs-Transducer.md)
+- 📈 [Signal Integrity](Week-03-05-Signal-Integrity.md)
 
-## ใบงาน
+---
 
-### [Week-03-Lab-sheet-03-LDR-and-calibration](Week-03-Lab-sheet-03-LDR-and-calibration.md)
+# 📝 ใบงาน
 
+- 🧪 [LDR Calibration Lab](Week-03-Lab-sheet-03-LDR-and-calibration.md)
