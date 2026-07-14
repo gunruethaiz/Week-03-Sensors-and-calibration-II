@@ -11,14 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "67039999/Report.md",
-                "bFile": "67039999/Report.md",
-                "aRef": ""
+                "file": "Week-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Report  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Week-03"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,9 +207,9 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "67039999/Report.md",
+    "67030021/Report.md",
     "Week-03.md",
-    "67039999",
+    "67030021",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
     "Week-03-03-Physical to Electrical to Digital.md",
