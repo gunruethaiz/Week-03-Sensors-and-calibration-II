@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
-          },
-          {
-            "id": "6e8b11191803e6ed",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
