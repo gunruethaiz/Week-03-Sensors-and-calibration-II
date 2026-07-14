@@ -1,4 +1,8 @@
-
+> [!info]
+> # 📖 Week 03
+> Application of Internet of Things
+>
+> Physical → Electrical → Digital
 ![](Images/Week-03-Cover.png)
 ## เนื้อหา
 ### [Week-03-01_Physical_World](Week-03-01_Physical_World.md)
